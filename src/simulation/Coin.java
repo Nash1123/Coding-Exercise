@@ -1,6 +1,5 @@
 package simulation;
 
-
 public class Coin {
 	
 	int type;
